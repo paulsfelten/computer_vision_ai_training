@@ -1,0 +1,174 @@
+{
+  "id": 64,
+  "result": [
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 87.93851005124166,
+        "y": 4.684727538266114,
+        "width": 2.3649980291682535,
+        "height": 2.825708673874798,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "eLFlUeHQdM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 91.2889239258966,
+        "y": 4.610366783690459,
+        "width": 4.256996452503058,
+        "height": 2.9744301830261017,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "tv_UZmTHeq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 95.74300354749695,
+        "y": 4.7590882928417635,
+        "width": 4.217579818683488,
+        "height": 2.751347919299144,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "SPWldUV4jG",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 68.90027591643671,
+        "y": 0.1487215091513051,
+        "width": 20.65431612140327,
+        "height": 3.49495546505567,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "5avhEByLH2",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 70.6346078044935,
+        "y": 1.1897720732104409,
+        "width": 7.646826960977521,
+        "height": 1.561575846088704,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "5NR9mtsvNK",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3558,
+      "original_height": 1886,
+      "image_rotation": 0,
+      "value": {
+        "x": 81.43476547102877,
+        "y": 9.964341113137444,
+        "width": 18.052818289318097,
+        "height": 3.4205947104800174,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "uzTB0PWA5s",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "5avhEByLH2",
+      "to_id": "5NR9mtsvNK",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 59\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 64,
+    "data": {
+      "image": "/data/upload/2/ec0029db-grafana_home.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111863Z",
+    "updated_at": "2025-01-09T13:25:59.396446Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 40,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 196,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:26:16.860653Z",
+  "updated_at": "2025-01-09T13:25:59.408250Z",
+  "draft_created_at": "2025-01-08T16:24:46.937108Z",
+  "lead_time": 191.991,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

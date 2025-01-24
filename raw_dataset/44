@@ -1,0 +1,47 @@
+{
+  "id": 44,
+  "result": [],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 55\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 44,
+    "data": {
+      "image": "/data/upload/2/4dfc5936-angular_slider2.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111445Z",
+    "updated_at": "2025-01-09T13:03:56.032212Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 176,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:08:02.951495Z",
+  "updated_at": "2025-01-09T13:03:56.041194Z",
+  "draft_created_at": "2025-01-08T16:07:57.384441Z",
+  "lead_time": 59.926,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

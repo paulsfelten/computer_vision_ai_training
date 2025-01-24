@@ -1,0 +1,47 @@
+{
+  "id": 31,
+  "result": [],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 55\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 31,
+    "data": {
+      "image": "/data/upload/2/98506ce8-angular_expansion1.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111209Z",
+    "updated_at": "2025-01-09T12:58:36.115831Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 163,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:03:08.727366Z",
+  "updated_at": "2025-01-09T12:58:36.127495Z",
+  "draft_created_at": "2025-01-08T16:02:53.030542Z",
+  "lead_time": 79.31299999999999,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

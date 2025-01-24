@@ -1,0 +1,7 @@
+names:
+- button
+- input
+- label
+nc: 3
+train: images
+val: images

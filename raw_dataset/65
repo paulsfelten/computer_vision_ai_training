@@ -1,0 +1,94 @@
+{
+  "id": 65,
+  "result": [
+    {
+      "original_width": 3552,
+      "original_height": 1894,
+      "image_rotation": 0,
+      "value": {
+        "x": 10.878990934174219,
+        "y": 0.2956871875961228,
+        "width": 78.79385100512415,
+        "height": 4.583151407739894,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "vEVvxZj9SH",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3552,
+      "original_height": 1894,
+      "image_rotation": 0,
+      "value": {
+        "x": 13.283405597162002,
+        "y": 1.8480449224757642,
+        "width": 7.449743791880174,
+        "height": 1.7002013286777033,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "5sWhrFROLV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "vEVvxZj9SH",
+      "to_id": "5sWhrFROLV",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 59\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 65,
+    "data": {
+      "image": "/data/upload/2/a9e947a1-grafana_search.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111882Z",
+    "updated_at": "2025-01-09T13:26:33.021650Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 41,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 197,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:27:21.364626Z",
+  "updated_at": "2025-01-09T13:26:33.036680Z",
+  "draft_created_at": null,
+  "lead_time": 46.117999999999995,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

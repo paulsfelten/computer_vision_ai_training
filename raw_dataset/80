@@ -1,0 +1,160 @@
+{
+  "id": 80,
+  "result": [
+    {
+      "original_width": 3568,
+      "original_height": 1888,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.522919409488544,
+        "y": 28.09239940387481,
+        "width": 14.707317236171157,
+        "height": 1.4903129657228007,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "PNCQysAXGq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3568,
+      "original_height": 1888,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.404629994720416,
+        "y": 37.108792846497764,
+        "width": 4.297848736575482,
+        "height": 1.639344262295083,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "a2jB2lwt2l",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3568,
+      "original_height": 1888,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.44405979964312,
+        "y": 30.104321907600596,
+        "width": 23.06643587978587,
+        "height": 4.3219076005961234,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "QhkKr0zQ5g",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3568,
+      "original_height": 1888,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.522919409488544,
+        "y": 39.418777943368106,
+        "width": 22.987576269940448,
+        "height": 4.2473919523099894,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "aq17JVe5bq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3568,
+      "original_height": 1888,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.522919409488544,
+        "y": 47.91356184798808,
+        "width": 23.105865684708583,
+        "height": 4.247391952309982,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "znQW-Cn9nV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "QhkKr0zQ5g",
+      "to_id": "PNCQysAXGq",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "aq17JVe5bq",
+      "to_id": "a2jB2lwt2l",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 81,
+    "data": {
+      "image": "/data/upload/2/c617f001-fafsa_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-09T14:39:50.811855Z",
+    "updated_at": "2025-01-09T14:39:50.811862Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 57,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 213,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-09T14:42:40.015119Z",
+  "updated_at": "2025-01-09T14:42:40.015142Z",
+  "draft_created_at": "2025-01-09T14:42:09.595964Z",
+  "lead_time": 45.426,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

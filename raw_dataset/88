@@ -1,0 +1,180 @@
+{
+  "id": 88,
+  "result": [
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.91436617094498,
+        "y": 45.332337565347274,
+        "width": 3.6661005869819476,
+        "height": 1.7923823749066514,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "VVmG5EDDlL",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.874945734525824,
+        "y": 49.663928304705,
+        "width": 3.58725971414362,
+        "height": 1.9417475728155367,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "fxcB0hX-jI",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 41.07609474876541,
+        "y": 52.80059746079163,
+        "width": 18.054559879975564,
+        "height": 4.406273338312154,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Q8pOytWeQZ",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 41.076094748765414,
+        "y": 61.91187453323376,
+        "width": 18.054559879975585,
+        "height": 4.854368932038838,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Cn6gDwyZnF",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.20479831540009,
+        "y": 43.8386855862584,
+        "width": 15.88643587692175,
+        "height": 4.705003734129953,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "HwKTEYafzc",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3592,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.24421875181926,
+        "y": 48.31964152352507,
+        "width": 15.88643587692172,
+        "height": 4.630321135175501,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "z8PwhWm3W6",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "HwKTEYafzc",
+      "to_id": "VVmG5EDDlL",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "z8PwhWm3W6",
+      "to_id": "fxcB0hX-jI",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 89,
+    "data": {
+      "image": "/data/upload/2/b05d805f-vitalware_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-09T14:39:50.812004Z",
+    "updated_at": "2025-01-09T14:50:36.441900Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 65,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 221,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-09T14:49:56.799047Z",
+  "updated_at": "2025-01-09T14:50:36.448884Z",
+  "draft_created_at": "2025-01-09T14:49:10.466885Z",
+  "lead_time": 94.441,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

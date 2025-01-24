@@ -1,0 +1,200 @@
+{
+  "id": 86,
+  "result": [
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.198175357342485,
+        "y": 28.42261904761904,
+        "width": 11.355106603848919,
+        "height": 5.505952380952382,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Nijbl0_sO4",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.3415715084245,
+        "y": 63.69047619047619,
+        "width": 9.107741755170487,
+        "height": 5.952380952380949,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "C5qhlr1y8S",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 49.28431685698315,
+        "y": 84.59821428571429,
+        "width": 8.122055418030818,
+        "height": 4.166666666666657,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Pu41fWCZNA",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.836041683302724,
+        "y": 49.18154761904761,
+        "width": 2.1685099417072564,
+        "height": 1.860119047619051,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "uCUOGk3XUg",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.99375149724507,
+        "y": 57.58928571428571,
+        "width": 3.587898267188372,
+        "height": 2.232142857142861,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "gEzeg2o96G",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.77150043919189,
+        "y": 47.098214285714285,
+        "width": 24.287311347121275,
+        "height": 6.02678571428571,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "nVXdV1TFXd",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3578,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.7320729857063,
+        "y": 55.50595238095236,
+        "width": 24.287311347121264,
+        "height": 6.101190476190464,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "pbHO1sG5sN",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "nVXdV1TFXd",
+      "to_id": "uCUOGk3XUg",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "pbHO1sG5sN",
+      "to_id": "gEzeg2o96G",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 87,
+    "data": {
+      "image": "/data/upload/2/e36a27d8-ohiogov_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-09T14:39:50.811962Z",
+    "updated_at": "2025-01-09T14:39:50.811965Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 63,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 219,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-09T14:48:14.139914Z",
+  "updated_at": "2025-01-09T14:48:14.139933Z",
+  "draft_created_at": "2025-01-09T14:47:28.682587Z",
+  "lead_time": 60.851,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

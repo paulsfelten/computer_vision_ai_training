@@ -1,0 +1,280 @@
+{
+  "id": 76,
+  "result": [
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.1921655580192,
+        "y": 29.268292682926834,
+        "width": 9.342202512934243,
+        "height": 4.508499630450846,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "9u4ZsT-Xi9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 69.7708795269771,
+        "y": 29.268292682926816,
+        "width": 9.421039664942098,
+        "height": 4.434589800443469,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "hbYTHJGbR6",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.23158413402319,
+        "y": 33.99852180339985,
+        "width": 9.342202512934191,
+        "height": 4.360679970436068,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "afMPSF_Bv1",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 69.84971667898503,
+        "y": 33.99852180339986,
+        "width": 9.263365360926299,
+        "height": 4.360679970436063,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Nk7VFS4fTX",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.19216555801924,
+        "y": 54.988913525498894,
+        "width": 9.14510963291448,
+        "height": 4.28677014042867,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "lrChn8-ISM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 69.53436807095346,
+        "y": 54.98891352549886,
+        "width": 9.184528208918415,
+        "height": 4.286770140428694,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "sYfuTLOy6_",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 92.75190933727522,
+        "y": 93.64375461936434,
+        "width": 6.267553584626769,
+        "height": 5.099778270509961,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "tnHdK73P90",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.15274698201524,
+        "y": 44.124168514412396,
+        "width": 18.56614929785666,
+        "height": 4.212860310421315,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "GI04oNSH3T",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.152746982015294,
+        "y": 48.632668144863295,
+        "width": 18.526730721852665,
+        "height": 4.360679970436061,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "nBskrq3Rfq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.7440256220744,
+        "y": 45.67627494456763,
+        "width": 2.0103473762010395,
+        "height": 1.3303769401330356,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "d8v53yGSBN",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3570,
+      "original_height": 1904,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.78344419807834,
+        "y": 50.18477457501847,
+        "width": 3.232323232323239,
+        "height": 1.6260162601626007,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "fSpOtJmeSi",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "GI04oNSH3T",
+      "to_id": "d8v53yGSBN",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "nBskrq3Rfq",
+      "to_id": "fSpOtJmeSi",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "21\u00a0hours, 3\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 77,
+    "data": {
+      "image": "/data/upload/2/4d6ba14c-w3schools_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.112097Z",
+    "updated_at": "2025-01-09T13:38:00.026128Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 53,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 209,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:34:07.195730Z",
+  "updated_at": "2025-01-09T13:38:00.036128Z",
+  "draft_created_at": "2025-01-08T16:33:35.617745Z",
+  "lead_time": 122.667,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

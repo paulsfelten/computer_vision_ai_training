@@ -1,0 +1,128 @@
+{
+  "id": 67,
+  "result": [
+    {
+      "original_width": 3562,
+      "original_height": 1900,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.7490580750327945,
+        "y": 48.26311899482629,
+        "width": 33.82588570411252,
+        "height": 4.508499630450865,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "vmF36POSPV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3562,
+      "original_height": 1900,
+      "image_rotation": 0,
+      "value": {
+        "x": 92.52838432115627,
+        "y": 1.2564671101256468,
+        "width": 2.641415317220904,
+        "height": 4.434589800443458,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "ITaiyupFDh",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3562,
+      "original_height": 1900,
+      "image_rotation": 0,
+      "value": {
+        "x": 96.11597825947123,
+        "y": 1.9216555801921658,
+        "width": 2.4442947711596474,
+        "height": 3.8433111603843306,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "q6sauW0irt",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3562,
+      "original_height": 1900,
+      "image_rotation": 0,
+      "value": {
+        "x": 0.5125134197592806,
+        "y": 1.3303769401330376,
+        "width": 3.587593938314964,
+        "height": 5.469327420546932,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "3Uy__yqoy0",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 59\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 67,
+    "data": {
+      "image": "/data/upload/2/273102dc-target_contactus.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111919Z",
+    "updated_at": "2025-01-09T13:27:45.821025Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 43,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 199,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:28:09.247674Z",
+  "updated_at": "2025-01-09T13:27:45.835808Z",
+  "draft_created_at": "2025-01-08T16:28:01.199998Z",
+  "lead_time": 38.387,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

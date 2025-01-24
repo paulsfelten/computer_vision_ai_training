@@ -1,0 +1,134 @@
+{
+  "id": 84,
+  "result": [
+    {
+      "original_width": 3590,
+      "original_height": 1846,
+      "image_rotation": 0,
+      "value": {
+        "x": 40.48088293259756,
+        "y": 42.46704568699605,
+        "width": 8.711076074103268,
+        "height": 1.7630722938644539,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "Bt9qluMpEI",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3590,
+      "original_height": 1846,
+      "image_rotation": 0,
+      "value": {
+        "x": 40.24438312968072,
+        "y": 41.47052656437702,
+        "width": 19.787150177374834,
+        "height": 3.909421173351625,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "amsedMYFuz",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3590,
+      "original_height": 1846,
+      "image_rotation": 0,
+      "value": {
+        "x": 47.615293653921945,
+        "y": 55.57510491529266,
+        "width": 6.148994875837616,
+        "height": 3.756110539102542,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "qhzmk7bPhI",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3590,
+      "original_height": 1846,
+      "image_rotation": 0,
+      "value": {
+        "x": 53.84312179739851,
+        "y": 55.57510491529266,
+        "width": 6.227828143476542,
+        "height": 3.8327658562270828,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "bDDne87Dt-",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "amsedMYFuz",
+      "to_id": "Bt9qluMpEI",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 85,
+    "data": {
+      "image": "/data/upload/2/c47d2c02-microsoft_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-09T14:39:50.811926Z",
+    "updated_at": "2025-01-09T14:39:50.811929Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 61,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 217,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-09T14:46:00.811851Z",
+  "updated_at": "2025-01-09T14:46:00.811878Z",
+  "draft_created_at": "2025-01-09T14:45:31.996430Z",
+  "lead_time": 41.527,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

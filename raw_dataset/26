@@ -1,0 +1,140 @@
+{
+  "id": 26,
+  "result": [
+    {
+      "original_width": 3564,
+      "original_height": 1890,
+      "image_rotation": 0,
+      "value": {
+        "x": 29.728511884645712,
+        "y": 54.275092936802984,
+        "width": 4.5341894784274,
+        "height": 4.758364312267659,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "e_q7q0PJLE",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3564,
+      "original_height": 1890,
+      "image_rotation": 0,
+      "value": {
+        "x": 29.925650557620802,
+        "y": 48.32713754646839,
+        "width": 5.283316435732806,
+        "height": 4.684014869888485,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "PZh_ZgLEg_",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3564,
+      "original_height": 1890,
+      "image_rotation": 0,
+      "value": {
+        "x": 31.34504900304157,
+        "y": 49.888475836431226,
+        "width": 2.444519544891296,
+        "height": 1.784386617100374,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "QX4erX2Zaj",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3564,
+      "original_height": 1890,
+      "image_rotation": 0,
+      "value": {
+        "x": 31.147910330066463,
+        "y": 56.059479553903344,
+        "width": 1.853103525965981,
+        "height": 1.2639405204460985,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "Lmj9EDNMPb",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "PZh_ZgLEg_",
+      "to_id": "QX4erX2Zaj",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "e_q7q0PJLE",
+      "to_id": "Lmj9EDNMPb",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "20\u00a0hours, 58\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 26,
+    "data": {
+      "image": "/data/upload/2/70713911-angular_badges.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.111089Z",
+    "updated_at": "2025-01-09T12:56:06.493297Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 158,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T15:58:00.260783Z",
+  "updated_at": "2025-01-09T12:56:06.507494Z",
+  "draft_created_at": "2025-01-08T15:57:15.242766Z",
+  "lead_time": 264.592,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

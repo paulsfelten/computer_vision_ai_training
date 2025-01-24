@@ -31,10 +31,13 @@ pip install easyocr
 - Put all contents in ./Datasets directory
 
 # Train model
-- In Terminal, `cd ./bot_party_training`
-- `python3 /Users/paul.felten/bot_party_training/training_script.py`
+- In Terminal, `cd ./computer_vision_ai_training`
+- `python3 ./training_script.py`
 - When training finishes, copy best.pt to ./predict directory
-- `python3 /Users/paul.felten/bot_party_training/predict.py`
+- `python3 ./predict.py`
+
+# OCR AI FYI
+Download `craft_mlt_25k.pth` and `english_g2.pth` to `./ocr/model` in order to run OCR in the predict script. They are too large to upload into github. They can be found on EasyOCR's website.
 
 Journal:
 - Day 1: 

@@ -1,0 +1,200 @@
+{
+  "id": 83,
+  "result": [
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.25330383652558,
+        "y": 17.542561065877127,
+        "width": 12.89082577200408,
+        "height": 5.773501110288666,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Gg_fPuzdjB",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 50.144129608529674,
+        "y": 17.542561065877127,
+        "width": 12.930247257545389,
+        "height": 5.773501110288677,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "4xXmySF_RH",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.25330383652558,
+        "y": 60.91783863804589,
+        "width": 25.821073029549467,
+        "height": 5.625462620281274,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "OONNAaES3t",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.21388235098429,
+        "y": 34.64100666173205,
+        "width": 6.1103302589010156,
+        "height": 1.628423390081423,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "Ba6D75_oBc",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.292725322066886,
+        "y": 45.891931902294594,
+        "width": 4.139255981836172,
+        "height": 1.628423390081423,
+        "rotation": 0,
+        "rectanglelabels": [
+          "label"
+        ]
+      },
+      "id": "3YCwHtDx63",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.25330383652559,
+        "y": 36.93560325684678,
+        "width": 25.860494515090778,
+        "height": 5.255366395262769,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "BI0Hs1CwA1",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3560,
+      "original_height": 1896,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.21388235098429,
+        "y": 48.26054774241303,
+        "width": 25.89991600063208,
+        "height": 5.2553663952627625,
+        "rotation": 0,
+        "rectanglelabels": [
+          "input"
+        ]
+      },
+      "id": "vGKb40bjoS",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "from_id": "BI0Hs1CwA1",
+      "to_id": "Ba6D75_oBc",
+      "type": "relation",
+      "direction": "right"
+    },
+    {
+      "from_id": "vGKb40bjoS",
+      "to_id": "3YCwHtDx63",
+      "type": "relation",
+      "direction": "right"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "0\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 84,
+    "data": {
+      "image": "/data/upload/2/715f1169-logingov_login.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-09T14:39:50.811910Z",
+    "updated_at": "2025-01-09T14:39:50.811913Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 60,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": null,
+    "file_upload": 216,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-09T14:45:17.518542Z",
+  "updated_at": "2025-01-09T14:45:17.518557Z",
+  "draft_created_at": "2025-01-09T14:44:25.383637Z",
+  "lead_time": 64.45,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}

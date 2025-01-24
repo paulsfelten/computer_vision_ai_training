@@ -1,0 +1,128 @@
+{
+  "id": 73,
+  "result": [
+    {
+      "original_width": 3556,
+      "original_height": 1884,
+      "image_rotation": 0,
+      "value": {
+        "x": 33.7437730997911,
+        "y": 40.77380952380954,
+        "width": 14.151886148160052,
+        "height": 7.738095238095219,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "Iz7iLe52MV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3556,
+      "original_height": 1884,
+      "image_rotation": 0,
+      "value": {
+        "x": 52.50783384219832,
+        "y": 40.77380952380944,
+        "width": 14.112465852482705,
+        "height": 7.6636904761905695,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "2KeWUkLoph",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3556,
+      "original_height": 1884,
+      "image_rotation": 0,
+      "value": {
+        "x": 2.1286959665756062,
+        "y": 2.752976190476191,
+        "width": 6.859131447854732,
+        "height": 1.5624999999999991,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "f_rFPmDdCC",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3556,
+      "original_height": 1884,
+      "image_rotation": 0,
+      "value": {
+        "x": 86.25160694198928,
+        "y": 2.7529761904761902,
+        "width": 12.259711955648541,
+        "height": 1.5625,
+        "rotation": 0,
+        "rectanglelabels": [
+          "button"
+        ]
+      },
+      "id": "8G5Xo9ebdD",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " paulsfelten@gmail.com, 1",
+  "created_ago": "21\u00a0hours, 2\u00a0minutes",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "paulsfelten@gmail.com"
+  },
+  "task": {
+    "id": 73,
+    "data": {
+      "image": "/data/upload/2/1afd7df9-tympanus_submits.png"
+    },
+    "meta": {},
+    "created_at": "2025-01-08T15:55:32.112026Z",
+    "updated_at": "2025-01-09T13:34:42.102422Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 49,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 205,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-01-08T16:31:58.013562Z",
+  "updated_at": "2025-01-09T13:34:42.114459Z",
+  "draft_created_at": "2025-01-08T16:31:48.335046Z",
+  "lead_time": 55.784000000000006,
+  "import_id": null,
+  "last_action": null,
+  "project": 2,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
